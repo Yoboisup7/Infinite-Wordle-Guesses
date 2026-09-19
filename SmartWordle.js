@@ -1,3 +1,4 @@
+// Paste the code directly into your console tab. Right click then at the bottom click inspect element then go to the console tab and paste the script in there and press enter.
 (async function smartWordle() {
   const LIST_URL = 'https://raw.githubusercontent.com/Yoboisup7/Infinite-Wordle-Guesses/refs/heads/main/infinite-wordle-guesses.txt';
   const FIRST = 'AUDIO';

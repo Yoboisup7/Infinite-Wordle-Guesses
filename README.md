@@ -1,4 +1,4 @@
-# Infinite-Wordle-Scripts/All Guesses
+# Infinite-Wordle-Scripts And All Guesses
 
 This is a dump of all possible answers for infinite wordle and some scripts for it too.
 

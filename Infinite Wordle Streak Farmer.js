@@ -1,3 +1,4 @@
+// Paste the code directly into your console tab. Right click then at the bottom click inspect element then go to the console tab and paste the script in there and press enter.
 (async function streakFarm() {
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
   const MAX_GAMES = 1000;

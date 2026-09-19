@@ -1,4 +1,4 @@
-// Paste the code directly into your console tab. Right click then at the bottom click inspect element then go to the console tab and paste the script in there and press enter.
+// Paste the code directly into your console tab. Right click then at the bottom click inspect element then go to the console tab and paste the script in there and press enter
 (function setStreaks() {
   const current = Number(prompt('Enter what you would like to set your current streak to', ''));
   const max = Number(prompt('Enter what you would like to set your max streak to', String(current)));

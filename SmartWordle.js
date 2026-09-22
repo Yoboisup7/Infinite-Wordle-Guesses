@@ -1,8 +1,8 @@
 // Paste the code directly into your console tab. Right click then at the bottom click inspect element then go to the console tab and paste the script in there and press enter
 (async function smartWordle() {
   const LIST_URL = 'https://raw.githubusercontent.com/Yoboisup7/Infinite-Wordle-Guesses/refs/heads/main/infinite-wordle-guesses.txt';
-  const FIRST = 'AUDIO';
-  const SECOND = 'CHEST';
+  const FIRST = 'AUDIO'; // You can change the first word to whatever you want.
+  const SECOND = 'CHEST'; // You can change the second word to whatever you want.
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
   const rejected = new Set();
 

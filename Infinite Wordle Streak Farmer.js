@@ -1,7 +1,7 @@
 // Paste the code directly into your console tab. Right click then at the bottom click inspect element then go to the console tab and paste the script in there and press enter
 (async function streakFarm() {
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-  const MAX_GAMES = 1000000000000000000000; //You can change this to whatever you want
+  const MAX_GAMES = 1000000000000000000000; // You can change this to whatever you want
 
   const style = document.createElement('style');
   style.textContent = 'game-tile,.tile,game-row,game-tile *{animation:none!important;transition:none!important}';
